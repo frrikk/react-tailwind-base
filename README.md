@@ -1,1 +1,9 @@
-## React, TS, Vite, Tailwind, cn(clsx,twMerge), absolute paths
+# React TS Starter Repo
+
+- React
+- TypeScript
+- Vite
+- TailwindCSS
+- Absolute path imports
+- ESLint auto sort imports
+- cn() utility function for clsx + twMerge
