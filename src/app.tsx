@@ -1,5 +1,9 @@
-function App() {
-  return <div>Hello from us</div>;
-}
+import { Button } from "@/components/button";
 
-export default App;
+export default function App() {
+  return (
+    <div>
+      <Button>Press</Button>
+    </div>
+  );
+}
